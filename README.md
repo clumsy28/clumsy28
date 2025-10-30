@@ -100,10 +100,12 @@
   <b>Thanks for stopping by! 👋</b><br/>
   I’m open to interesting frontend collabs, UI engineering, and performance work.<br/>
   <a href="mailto:burakcankapucuoglu44@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/burak-can-kapucuoğlu-9a63a4359/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/burak-can-kapucuoğlu-9a63a4359/">LinkedIn</a>
 </p>
 
-<p align="center">
+---
+
+<h3 align="center">
   <i>Let’s build fast, beautiful, and accessible web experiences.</i> ⚡
 </p>
 
