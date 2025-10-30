@@ -10,7 +10,8 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-burakcankapucuoglu44@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/burak-can-kapucuoğlu-9a63a4359">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-burak-can-kapucuoğlu-9a63a4359?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak%20Can%20Kapucuoğlu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   </a>
 </p>
 
@@ -40,7 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="32" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" alt="TailwindCSS" />
+<img src="https://cdn.simpleicons.org/tailwindcss" height="32" alt="Tailwind CSS" />
+
   <!-- State / Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
@@ -48,7 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32" alt="Vite" />
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.simpleicons.org/github/ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+  <img alt="GitHub" height="32" src="https://cdn.simpleicons.org/github/181717" />
+</picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
 </p>
 
