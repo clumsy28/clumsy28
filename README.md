@@ -1,17 +1,14 @@
-<!-- 👉 Replace USERNAME / YOUR_NAME / links below with your info -->
-
-<h1 >Hi, I'm Burak 👋</h1>
-<p >
+<h1>Hi, I'm Burak 👋</h1>
+<p>
   Front-End Developer — UI/UX-driven, performance-obsessed
 </p>
 
-<p >
+<p>
   <a href="mailto:burakcankapucuoglu44@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-burakcankapucuoglu44@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/burak-can-kapucuoğlu-9a63a4359">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak%20Can%20Kapucuoğlu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-USERNAME-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -27,8 +24,6 @@
 ---
 
 ## 🧩 Tech stack
-
-<!-- Icons from devicon; safe heights and proper alt texts -->
 <p>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
@@ -48,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
   <!-- Build / Test -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32" alt="Vite" />
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
 <picture>
