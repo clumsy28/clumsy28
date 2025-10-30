@@ -70,12 +70,9 @@
 ---
 
 ## 🚀 Recent projects
-- **component-kit** — React + Tailwind component kit (a11y-first, themeable)
-- **next-seo-starter** — Next.js App Router, RSC, full SEO setup & analytics
-- **ui-patterns** — Real-world UI patterns & copy-paste snippets
-
-> Like what you see? ⭐ the repos and drop feedback!
-
+- **Supx AI** — An AI Sales Representative with React
+- **Agackabugu** — A showroom site for furniture designers
+- 
 ---
 
 ## 📊 GitHub stats
@@ -86,17 +83,28 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy28&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Optional: GitHub Profile Trophy (comment-in if you like) -->
-<!--
-<p >
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&margin-w=8" alt="Trophies" />
-</p>
--->
-
 ---
 
 ## 🗣️ Work style
-- **UX > Code**: people first, then technology
-- Clean Git: `feat/fix/chore` conventional commits, auto release notes
-- PRs include tests & Lighthouse; animations must respect performance budgets
+- **UX > Code** — people first, then technology. I start from user journeys → components → ship.
+- **Component-driven** — design tokens, accessible primitives (Radix/shadcn), reusable patterns.
+- **Performance guardrails** — CWV & Lighthouse ≥ 90, bundle budgets, code-splitting, image/Font optimization.
+- **Quality bar** — unit/E2E where it counts, type-safety, ESLint + Prettier, lint-staged + husky.
+- **Clean Git** — conventional commits (`feat/fix/chore`), small PRs, thoughtful reviews, CI gates.
+- **Docs & handoff** — README-first, Storybook (when useful), clear env & run scripts.
+- **Collaboration** — async-first, concise specs, fast feedback loops, kindness by default.
+
+---
+
+<p>
+  <b>Thanks for stopping by! 👋</b><br/>
+  I’m open to interesting frontend collabs, UI engineering, and performance work.<br/>
+  <a href="mailto:burakcankapucuoglu44@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/burak-can-kapucuoğlu-9a63a4359/">LinkedIn</a> • 
+</p>
+
+<p align="center">
+  <i>Let’s build fast, beautiful, and accessible web experiences.</i> ⚡
+</p>
+
 
