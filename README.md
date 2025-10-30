@@ -78,9 +78,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=clumsy28&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy28&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-<p >
-  <img height="160" src="https://streak-stats.demolab.com?user=clumsy28&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <!-- Optional: GitHub Profile Trophy (comment-in if you like) -->
 <!--
