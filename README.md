@@ -1,16 +1,16 @@
 <!-- 👉 Replace USERNAME / YOUR_NAME / links below with your info -->
 
-<h1 align="center">Hi, I'm Burak 👋</h1>
-<p align="center">
+<h1 >Hi, I'm Burak 👋</h1>
+<p >
   Front-End Developer — UI/UX-driven, performance-obsessed
 </p>
 
-<p align="center">
+<p >
   <a href="mailto:burakcankapucuoglu44@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-burakcankapucuoglu44@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/burak-can-kapucuoğlu-9a63a4359">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-burak-can-kapucuoğlu-9a63a4359-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-burak-can-kapucuoğlu-9a63a4359?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -73,18 +73,18 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
+<p >
   <!-- Replace USERNAME below -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=clumsy28&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy28&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<p >
+  <img height="160" src="https://streak-stats.demolab.com?user=clumsy28&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Optional: GitHub Profile Trophy (comment-in if you like) -->
 <!--
-<p align="center">
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&margin-w=8" alt="Trophies" />
 </p>
 -->
