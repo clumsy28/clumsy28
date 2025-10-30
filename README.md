@@ -8,7 +8,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-burakcankapucuoglu44@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/burak-can-kapucuoğlu-9a63a4359">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-USERNAME-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burak%20Can%20Kapucuoğlu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
