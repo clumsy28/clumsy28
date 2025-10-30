@@ -105,7 +105,7 @@
 
 ---
 
-<h3 align="center">
+<h4 align="center">
   <i>Let’s build fast, beautiful, and accessible web experiences.</i> ⚡
 </p>
 
