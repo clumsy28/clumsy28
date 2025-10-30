@@ -68,7 +68,6 @@
 ## 🚀 Recent projects
 - **Supx AI** — An AI Sales Representative with React
 - **Agackabugu** — A showroom site for furniture designers
-- 
 ---
 
 ## 📊 GitHub stats
