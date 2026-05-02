@@ -70,15 +70,6 @@
 - **Agackabugu** — A showroom site for furniture designers
 ---
 
-## 📊 GitHub stats
-
-<p >
-  <!-- Replace USERNAME below -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=clumsy28&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy28&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🗣️ Work style
 - **UX > Code** — people first, then technology. I start from user journeys → components → ship.
